@@ -1,0 +1,12 @@
+{
+  "name": "meteo-dashboard",
+  "version": "1.0.0",
+  "description": "МетеоЦентр — тематический дашборд погоды, качества воздуха и наблюдений (ООП, ES6-модули)",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
